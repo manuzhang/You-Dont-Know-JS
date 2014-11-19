@@ -11,7 +11,7 @@
 [Table of Contents](toc.md)
 
 * [Preface](../preface.md) :white_check_mark:
-* [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
+* [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson)) :white_check_mark:
 * [Chapter 1: What is Scope?](ch1.md)
 * [Chapter 2: Lexical Scope](ch2.md)
 * [Chapter 3: Function vs. Block Scope](ch3.md)
