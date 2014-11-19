@@ -10,7 +10,7 @@
 
 [Table of Contents](toc.md)
 
-* [Preface](../preface.md)
+* [Preface](../preface.md) :white_check_mark:
 * [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
 * [Chapter 1: What is Scope?](ch1.md)
 * [Chapter 2: Lexical Scope](ch2.md)
